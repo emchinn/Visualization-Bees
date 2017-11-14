@@ -21,7 +21,7 @@ Sankey plot and regional map detailing the dependence of certain crops on bee po
 </p>
 
 
-\*The libraries used include: 
+\*The libraries used include:  
 library(shiny)  
 library(dplyr)  
 library(plyr)  
