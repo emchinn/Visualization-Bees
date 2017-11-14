@@ -5,12 +5,13 @@ The data were all obtained from the United States Department of Agriculture (USD
 
 Bar plot and map detailing the decline of bees in various states.
 <p align="center">
-<img src="images/lost_colonies.png" width="400"/> 
+<img src="images/lost_colonies.png" width="800"/> 
 </p>
+
 
 Sankey plot detailing the dependence of certain crops on bee pollination across agricultural regions.
 <p align="center">
-<img src="images/sankey.png" width="400"/> 
+<img src="images/region_map.png" width="300"/> <img src="images/sankey.png" width="400"/> 
 </p>
 
 
